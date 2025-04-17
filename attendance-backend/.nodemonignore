@@ -1,0 +1,13 @@
+
+# Ignore temp directory
+temp/*
+# Ignore all Python files
+*.py
+# Ignore JSON files
+*.json
+# Ignore pickle files
+*.pkl
+# Ignore Student Images
+../Student_Images/*
+# Ignore Excel files
+*.xlsx

@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "temp/*",
+    "*.json",
+    "*.py",
+    "../Student_Images/*"
+  ],
+  "delay": "2000"
+}
