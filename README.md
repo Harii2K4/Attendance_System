@@ -172,6 +172,8 @@ The Excel attendance sheet has the following format:
 ## Contributors
 
 - [Hari Kishan](https://github.com/Harii2K4)
+- [Sakthu Sudarshan](https://github.com/Sakthisudarsh1206)
+- [Saadhvi Ramachandran](https://github.com/saadhvi-r28)
 
 ## Acknowledgments
 
