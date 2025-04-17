@@ -171,7 +171,7 @@ The Excel attendance sheet has the following format:
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Hari Kishan](https://github.com/Harii2K4)
 
 ## Acknowledgments
 
